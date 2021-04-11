@@ -24,23 +24,21 @@
 
 ### :closed_book: Estensioni VSCode
 
-- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) Albero dei branch git
 
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) Rinomina in automatico la chiusura del tag HTML quando se ne modifica uno
 
-- [ES7 React/Redux/GraphQl/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [ES7 React/Redux/GraphQl/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Snippets utili soprattutto per React
 
-- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) 
 
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) Javascript pulito :smile:
 
-- [TailwindCss Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [TailwindCss Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) Tailwind è comodissimo, questa estensione suggerisce le classi
 
-- [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
-_Ctrl + Shift + V => open .md Preview in a new tab of vscode_
+- [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) Con questa combinazione _Ctrl + Shift + V => open .md Preview in a new tab of vscode_ si apre il documento in una nuova tab
 
-- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
-_[Emoji's List](https://www.webfx.com/tools/emoji-cheat-sheet/)_
+- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) Permette di visualizzare emoji in md su vscode qui la lista _[Emoji's List](https://www.webfx.com/tools/emoji-cheat-sheet/)_
 
 ### :green_book: Estensioni Chrome
 
@@ -48,13 +46,13 @@ _[Emoji's List](https://www.webfx.com/tools/emoji-cheat-sheet/)_
 
 - [Loom](https://www.loom.com/) Registra un video del browser
 
-- [FontsNinja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
+- [FontsNinja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) Sgama i font presenti nella pagina web
 
-- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) Indispensabili per lo sviluppo
 
-- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=it)
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=it) Indispensabili per lo sviluppo
 
-- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=it)
+- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=it) Rende il JSON più bello e leggibile
 
 ### :page_with_curl: Community
 
