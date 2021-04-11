@@ -1,35 +1,63 @@
-# Elenco di tools (in continuo aggiornamento)
+# :open_file_folder: Elenco di tools (in continuo aggiornamento)
 
-### Editor
+### :pencil2: Editors
 
-[Visual Studio Code](https://code.visualstudio.com/) Coding..
+- [Visual Studio Code](https://code.visualstudio.com/) Coding..
 
-[Notepad++](https://notepad-plus-plus.org/downloads/) Serve sempre
+- [Notepad++](https://notepad-plus-plus.org/downloads/) Serve sempre
 
-[StackEdit](https://stackedit.io/) MarkDown
+- [StackEdit](https://stackedit.io/) MarkDown
 
-### Images
+### :camera: Images
 
-[Unsplash.com](https://unsplash.com/) Su questo sito si possono trovare immagini con copyright free
+- [Unsplash.com](https://unsplash.com/) Su questo sito si possono trovare immagini con copyright free
 
-### ScreenShots
+### :scissors: ScreenShots
 
-[GreenShot](https://getgreenshot.org/) Tool più efficace di quello nativo windows
+- [GreenShot](https://getgreenshot.org/) Tool più efficace di quello nativo windows
 
-### Mockups
+### :black_nib: Mockups
 
-[Lunacy](https://icons8.it/lunacy) Grafica
+- [Lunacy](https://icons8.it/lunacy) Grafica
 
-[Mockplus](https://www.mockplus.com/) Mockups veloci
+- [Mockplus](https://www.mockplus.com/) Mockups veloci
 
-### Estensioni Chrome
+### :closed_book: Estensioni VSCode
 
-[GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) Scatta una foto della pagina web per intero
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
-[Loom](https://www.loom.com/) Registra un video del browser
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-### Community
+- [ES7 React/Redux/GraphQl/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
-StackOverFlow.com
+- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
-Dev.to
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+- [TailwindCss Intellisense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+
+- [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+_Ctrl + Shift + V => open .md Preview in a new tab of vscode_
+
+- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
+_[Emoji's List](https://www.webfx.com/tools/emoji-cheat-sheet/)_
+
+### :green_book: Estensioni Chrome
+
+- [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) Scatta una foto della pagina web per intero
+
+- [Loom](https://www.loom.com/) Registra un video del browser
+
+- [FontsNinja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
+
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=it)
+
+- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=it)
+
+### :page_with_curl: Community
+
+- [StackOverFlow.com](https://stackoverflow.com/)
+
+- [Dev.to](https://dev.to/)
