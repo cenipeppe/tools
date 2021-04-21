@@ -8,9 +8,11 @@
 
 - [StackEdit](https://stackedit.io/) MarkDown
 
-### :camera: Images
+### :camera: UI Tools
 
 - [Unsplash.com](https://unsplash.com/) Su questo sito si possono trovare immagini con copyright free
+
+- [Coolors](https://coolors.co/) Strumento per generare palette di colori
 
 ### :scissors: ScreenShots
 
@@ -30,7 +32,7 @@
 
 - [ES7 React/Redux/GraphQl/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Snippets utili soprattutto per React
 
-- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) 
+- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) Javascript pulito :smile:
 
@@ -47,6 +49,8 @@
 - [Loom](https://www.loom.com/) Registra un video del browser
 
 - [FontsNinja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) Sgama i font presenti nella pagina web
+
+- [ColorZilla](https://www.colorzilla.com/chrome/) Color picker per browser.
 
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) Indispensabili per lo sviluppo
 
