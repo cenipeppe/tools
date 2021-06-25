@@ -14,6 +14,8 @@
 
 - [Coolors](https://coolors.co/) Strumento per generare palette di colori
 
+- [Blind text generator](https://www.blindtextgenerator.com/it) Con questo tool si possono generare paragrafi con un numero di caratteri o parole prestabilito
+
 ### :scissors: ScreenShots
 
 - [GreenShot](https://getgreenshot.org/) Tool più efficace di quello nativo windows
