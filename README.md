@@ -16,6 +16,8 @@
 
 - [Blind text generator](https://www.blindtextgenerator.com/it) Con questo tool si possono generare paragrafi con un numero di caratteri o parole prestabilito
 
+- [EmojiMedia](https://emojipedia.org/) Un mega contenitore di emoji utilizzabili anche nell'HTML
+
 ### :scissors: ScreenShots
 
 - [GreenShot](https://getgreenshot.org/) Tool più efficace di quello nativo windows
