@@ -12,7 +12,7 @@
 
 - [Unsplash.com](https://unsplash.com/) Su questo sito si possono trovare immagini con copyright free
 
-- [Coolors](https://coolors.co/) Strumento per generare palette di colori
+- [Happy Hues](https://www.happyhues.co/) Strumento per generare palette di colori
 
 - [Blind text generator](https://www.blindtextgenerator.com/it) Con questo tool si possono generare paragrafi con un numero di caratteri o parole prestabilito
 
