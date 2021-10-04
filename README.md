@@ -26,9 +26,7 @@
 
 ### :black_nib: Mockups
 
-- [Lunacy](https://icons8.it/lunacy) Grafica
-
-- [Mockplus](https://www.mockplus.com/) Mockups veloci
+- [Figma](https://www.figma.com/) UI & UX Design
 
 ### :closed_book: Estensioni VSCode
 
