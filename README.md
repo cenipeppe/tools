@@ -18,6 +18,8 @@
 
 - [EmojiMedia](https://emojipedia.org/) Un mega contenitore di emoji utilizzabili anche nell'HTML
 
+- [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) Generatore di tabelle in Markdown
+
 ### :scissors: ScreenShots
 
 - [GreenShot](https://getgreenshot.org/) Tool più efficace di quello nativo windows
