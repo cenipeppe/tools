@@ -28,6 +28,12 @@
 
 - [Figma](https://www.figma.com/) UI & UX Design
 
+- [Free Mockup Generator](https://mockups.pixeltrue.com/) Genera dei mockup su vari dispositivi
+
+### 🙀 Git
+
+- [Git explorer](https://gitexplorer.com/) Tool che aiuta ad utilizzare Git
+
 ### :closed_book: Estensioni VSCode
 
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) Albero dei branch git
@@ -44,7 +50,7 @@
 
 - [Markdown Preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) Con questa combinazione _Ctrl + Shift + V => open .md Preview in a new tab of vscode_ si apre il documento in una nuova tab
 
-- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) Permette di visualizzare emoji in md su vscode qui la lista _[Emoji's List](https://www.webfx.com/tools/emoji-cheat-sheet/)_
+- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) Permette di visualizzare emoji in md su vscode
 
 ### :green_book: Estensioni Chrome
 
