@@ -24,9 +24,11 @@
 
 - [GreenShot](https://getgreenshot.org/) Tool più efficace di quello nativo windows
 
-### :black_nib: Mockups
+### :black_nib: Grafica
 
 - [Figma](https://www.figma.com/) UI & UX Design
+
+- [Photopea](https://www.photopea.com/) Alternativa a Photoshop FREE
 
 - [Free Mockup Generator](https://mockups.pixeltrue.com/) Genera dei mockup su vari dispositivi
 
