@@ -8,6 +8,10 @@
 
 - [StackEdit](https://stackedit.io/) MarkDown
 
+### ✔️ Validators
+
+- [RocketValidator](https://rocketvalidator.com/) Valida l'html e suggerisce cosa sistemare. (Utile in ottica SEO)
+
 ### :camera: UI Tools
 
 - [Unsplash.com](https://unsplash.com/) Su questo sito si possono trovare immagini con copyright free
